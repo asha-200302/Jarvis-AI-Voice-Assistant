@@ -1,0 +1,16 @@
+kivy
+python-dotenv
+python-decouple
+google-generativeai
+pyttsx3
+SpeechRecognition
+pyaudio
+sounddevice
+numpy
+pyautogui
+pywhatkit
+keyboard
+wikipedia
+wolframalpha
+imdbpy
+requests
